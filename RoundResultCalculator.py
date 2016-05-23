@@ -1,5 +1,5 @@
 class RoundResultCalculator:
-    """docstring for ClassName"""
+    """docstring for RoundResultCalculator"""
     def __init__(self):
         pass 
 
